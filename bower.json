@@ -1,0 +1,23 @@
+{
+  "name": "asimov-theme-isaac",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asimov/asimov-theme-isaac",
+  "authors": [
+    "xzyfer <xzyfer@gmail.com>"
+  ],
+  "description": "Isaac - the default for the asimov framework",
+  "keywords": [
+    "asimov"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "asimov-component-normalize": "git@github.com:asimov/asimov-component-normalize.git"
+  }
+}
